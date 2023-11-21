@@ -1,0 +1,32 @@
+Name - Mana/ATK/Defence
+Hua Tuo - 1/1/10
+Guan Yu - 8/7/5
+Lu Bu - 4/5/3
+Cao Cao - 3/5/3
+Zhu Ge Liang - 3/3/7
+Zhang Fei - 4/8/1
+Xu Chu - 4/5/5
+Dong Zhuo - 2/4/2
+Zhao Yun - 4/5/1
+Zuo Ci - 1/2/3
+Zhou Yu - 3/3/3
+Zhen Ji - 2/2/7
+Zhang Ning - 1/2/1
+Zhang Jiao - 4/5/1
+Xu Huang - 5/3/5
+Xia Hou Yuan - 5/5/5
+Xia Hou Dun - 6/6/3
+Tai Shi Ci - 4/4/4
+Sun Jian - 5/3/2
+Sun Ce- 3/2/5
+Si Ma Yi - 6/2/5
+Meng Huo - 6/7/7
+Ma Chao - 4/4/2
+Lu Xun - 2/3/3
+Lu Meng 2/4/2
+Lady Zhu Rong - 3/4/1
+Huang Zhong - 3/4/2
+Guo Jia - 2/1/5
+Diao Chan - 1/2/7
+Dian Wei - 7/7/7
+Da Qiao - 2-2-7

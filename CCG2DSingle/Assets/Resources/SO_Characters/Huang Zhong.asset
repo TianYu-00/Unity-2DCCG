@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b53f2944e7272614fae64f3340b2b765, type: 3}
+  m_Name: Huang Zhong
+  m_EditorClassIdentifier: 
+  cardName: Huang Zhong
+  cardDescription: Huang Zhong
+  cardArt: {fileID: 21300000, guid: 9958745d0c46d9247be5fe9beb2c6369, type: 3}
+  cardManaCost: 3
+  cardATK: 4
+  cardHealth: 2
+  myAbility: 0

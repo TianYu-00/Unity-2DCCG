@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b53f2944e7272614fae64f3340b2b765, type: 3}
+  m_Name: Zuo Ci
+  m_EditorClassIdentifier: 
+  cardName: Zuo Ci
+  cardDescription: After placing down this card, you would pick up 2 extra card.
+  cardArt: {fileID: 21300000, guid: a7fc95c98135ba34f8ce19049968a12a, type: 3}
+  cardManaCost: 1
+  cardATK: 2
+  cardHealth: 3
+  myAbility: 3
